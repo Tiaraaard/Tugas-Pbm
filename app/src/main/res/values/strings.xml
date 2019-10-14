@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wSpinner</string>
+    <string-array name="daftar_makanan">
+        <item>Nasi Goreng</item>
+        <item>Nasi Ayam</item>
+        <item>Nasi Pecel</item>
+    </string-array>
+</resources>
